@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 hello Max! hello Max! hello Max! hello Max!
+=======
+hello world!
+hello world!
+hello world!
+hello world!
+hello world!
+>>>>>>> conflict
